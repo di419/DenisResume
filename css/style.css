@@ -382,7 +382,6 @@ main {
 
 .slider {
   margin-bottom: 55px;
-  max-height: 477px;
   overflow: hidden;
 }
 @media (max-width: 479.98px) {
