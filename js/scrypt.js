@@ -96,4 +96,17 @@ new Swiper('.image-slider', {
     slidesReView: 1,
 
     spaceBetween: 30,
+    
+    autoplay: {
+        delay: 2000,
+        stopOnLastSlide: true,
+        disableOnInteraction: true
+    },
+
+    speed: 800,
+
+    effect: 'fade',
+    fadeEffect: {
+        crossFade:true
+    },
 });
