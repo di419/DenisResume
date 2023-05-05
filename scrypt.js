@@ -1,10 +1,4 @@
 "use strict";
-//const mainElement = document.documentElement;
-
-// let space = '/*/*/*/*/*/*/*/*/';
-// console.log(space);
-//  || navigator.userAgent.match(/WPDesktop/i)
-// const page = document.querySelectorAll('.menu__link');
 
 const isMobile = {
     Android: function () {
